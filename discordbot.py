@@ -18,7 +18,7 @@ async def ping(ctx):
     await ctx.send('pong')
 
 @bot.command()
-async def ぱぱ(ctx):
+async def papa(ctx):
     await ctx.send('Gt警察だ！！')
 
     
